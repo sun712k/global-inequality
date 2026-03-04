@@ -9,6 +9,11 @@ This project focuses on **wealth inequality**—measured by asset concentration 
      - **The Elite Concentration Model:** Common in emerging markets (e.g., South Africa, Brazil, Mexico), where historical asset ownership patterns lead to Top 10% shares exceeding 70–80%.
      - **The Financialized Debt Model:** Found in advanced economies (e.g., USA, Canada, Sweden). While these nations have advanced markets, high levels of household indebtedness (mortgages, student loans) push the net wealth of the Bottom 50% into negative territory.
 
+<div align="center">
+  <img src="top_5_highest_share.png" width="48%" />
+  <img src="bottom_5_highest_share.png" width="48%" />
+</div>
+
 | Country                             | Top 10% Share of Wealth |
 | ----------------------------------- | ----------------------- |
 | Highly Financialized Economies      | ~57–70%                 |
