@@ -9,16 +9,15 @@ This project focuses on **wealth inequality**—measured by asset concentration 
      - **The Elite Concentration Model:** Common in emerging markets (e.g., South Africa, Brazil, Mexico), where historical asset ownership patterns lead to Top 10% shares exceeding 70–80%.
      - **The Financialized Debt Model:** Found in advanced economies (e.g., USA, Canada, Sweden). While these nations have advanced markets, high levels of household indebtedness (mortgages, student loans) push the net wealth of the Bottom 50% into negative territory.
 
-  <img src="top_5_highest_share.png" width="65%" />
-  <img src="bottom_5_highest_share.png" width="65%" />
+  <img src="top_5_highest_share.png" width="80%" />
+  <img src="bottom_5_highest_share.png" width="80%" />
 
-<div align="center">
 | Country                             | Top 10% Share of Wealth |
 | ----------------------------------- | ----------------------- |
 | Highly Financialized Economies      | ~57–70%                 |
 | Nordic countries                    | ~50–68%                 |
 | Emerging Asset-Growth Economies     | ~68—86%                    |
-</div>
+
 
 2. **Are there observable patterns in global wealth inequality across income groups?**
    - **Finding:** No. Descriptive statistics and ANOVA results show that the Top 10% own approximately **60–63% of total wealth across all income levels** (High, Upper-Middle, Lower-Middle, and Low). There is no significant gradient as countries get richer; wealth exclusion at the bottom (Bottom 50% share ~4%) remains a persistent global feature.
